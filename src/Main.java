@@ -1,10 +1,13 @@
 import Lesson1.*;
 
+import java.util.Objects;
 import java.util.Scanner;
+import java.util.SimpleTimeZone;
 
 public class Main {
     public static void main(String[] args) {
-//        Scanner sc = new Scanner(System.in);
+        //First Task!
+        Scanner sc = new Scanner(System.in);
 //        System.out.println("Enter  the number: ");
 //        int number = sc.nextInt();
 //        long myFact = Task1_1_fac_rec.getFactorialRec(number);
@@ -15,6 +18,9 @@ public class Main {
 //        System.out.println("Factorial of "+number+" is "+newMyFac);
 //        int newMySum = Task1_1_sum.getSum(number);
 //        System.out.println("Sum of "+number+" is "+newMySum);
-        Task1_2.getSimpleNumbers();
+        // Second Task!
+//        Task1_2.getSimpleNumbers();
+        // Third Task!
+       Task1_3.getCalc();
     }
 }
