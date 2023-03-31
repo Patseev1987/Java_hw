@@ -1,0 +1,158 @@
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Big iteration 1
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 1
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 2
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 3
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 4
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 5
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 6
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 7
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 8
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 9
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Big iteration 2
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 10
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 11
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 12
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 13
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 14
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 15
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 16
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 17
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Big iteration 3
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 18
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 19
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 20
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 21
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 22
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 23
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 24
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Big iteration 4
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 25
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 26
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 27
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 28
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 29
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 30
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Big iteration 5
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 31
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 32
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 33
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 34
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 35
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Big iteration 6
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 36
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 37
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Bingo!
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 38
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 39
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Big iteration 7
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 40
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 41
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 42
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Big iteration 8
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 43
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 44
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Big iteration 9
+Mar 29, 2023 10:32:18 PM Lesson2.BubbleSort getBubbleSort
+INFO: Small iteration 45
+Mar 30, 2023 10:40:27 PM Lesson1.Task1_3 getCalc
+INFO: Entered the fist number.
+Mar 30, 2023 10:40:31 PM Lesson1.Task1_3 getCalc
+INFO: Entered the mathematical action.
+Mar 30, 2023 10:40:34 PM Lesson1.Task1_3 getCalc
+INFO: Entered the second number.
+Mar 30, 2023 10:40:34 PM Lesson1.Task1_3 getCalc
+INFO: Got a division.
+Mar 30, 2023 10:40:39 PM Lesson1.Task1_3 getCalc
+INFO: THE END!!!
