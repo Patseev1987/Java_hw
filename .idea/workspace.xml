@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d93aa535-e2e1-4050-9691-3ce94cbb90b1" name="Changes" comment="added task3">
+    <list default="true" id="d93aa535-e2e1-4050-9691-3ce94cbb90b1" name="Changes" comment="added Lesson2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaHomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHomeWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1/Task1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson1/Task1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.0.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.0.0.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679751241906</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added Lesson2">
+      <created>1680277368518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680277368518</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +144,7 @@
     <MESSAGE value="added task1" />
     <MESSAGE value="added task2" />
     <MESSAGE value="added task3" />
-    <option name="LAST_COMMIT_MESSAGE" value="added task3" />
+    <MESSAGE value="added Lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Lesson2" />
   </component>
 </project>

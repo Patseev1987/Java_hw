@@ -1,24 +1,33 @@
 import Lesson1.*;
 import Lesson2.*;
+import Lesson3.*;
 
-import java.util.Arrays;
-import java.util.Objects;
-import java.util.Scanner;
-import java.util.SimpleTimeZone;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
 
-        Task1_3.getCalc();
+// Min and Max and Arithmetic mean task
+        ArrayList<Integer> mainArray = RandomArrayListInteger.getRandomArrayListInteger(25);
+        System.out.println(mainArray);
+//        System.out.println(MaxAndMinAndArithmeticMean.myMax(mainArray));
+//        System.out.println(MaxAndMinAndArithmeticMean.myMix(mainArray));
+//        System.out.println(MaxAndMinAndArithmeticMean.myMean(mainArray));
 
-// LESSON 2!
-//  TASK 1
-//        int[] myArray = {7, 8, 3, 0, 5, 44, 9, 1, 3, 10};
-//        BubbleSort.getBubbleSort(myArray);
-// TASK 2
-//        String json = "[{\"фамилия\":\"Иванов\",\"оценка\":\"5\",\"предмет\":\"Математика\"}, {\"фамилия\":\"Петрова\",\"оценка\":\"4\",\"предмет\":\"Информатика\"}, {\"фамилия\":\"Краснов\",\"оценка$\":\"5\",\"предмет\":\"Физика\"}]";
-//        StringBuilder[] myBuilder = BogdanParsing.getStringBuilderArray(json);
-//        System.out.println(Arrays.toString(myBuilder));
+// Delete even in ArrayList task
+//        mainArray = EvenDeleter.deleteEven(mainArray);
+//        System.out.println(mainArray);
+
+// Different arrays task
+//        ArrayList<Integer> mainArray2 = RandomArrayListInteger.getRandomArrayListInteger(10);
+//        ArrayList<Integer> mainArray3 = DifferentArrays.getDifferentArrays(mainArray, mainArray2);
+//        ArrayList<Integer> mainArray4 = DifferentArrays.getUnionArrays(mainArray, mainArray2);
+
+// Merge Sort Task
+
+mainArray=MyMergeSort.mergeSort(mainArray);
+        System.out.println(mainArray);
+
 
     }
 }

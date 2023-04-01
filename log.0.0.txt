@@ -156,3 +156,147 @@ Mar 30, 2023 10:40:34 PM Lesson1.Task1_3 getCalc
 INFO: Got a division.
 Mar 30, 2023 10:40:39 PM Lesson1.Task1_3 getCalc
 INFO: THE END!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:17:16 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!!!!!!!
+Apr 01, 2023 9:20:19 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 1
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 2
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 1
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 2
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 3Правый массив 3
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 1
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 2
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 1
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 2
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 3Правый массив 3
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 6Правый массив 6
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 1
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 2
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 1
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 2
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 3Правый массив 3
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 1
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 2
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 1
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1Правый массив 1
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 2Правый массив 2
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 3Правый массив 4
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 6Правый массив 7
+Apr 01, 2023 9:20:20 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 12Правый массив 13
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 1
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 2
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 1
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 2
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 3 Правый массив 3
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 1
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 2
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 1
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 2
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 3 Правый массив 3
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 6 Правый массив 6
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 1
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 2
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 1
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 2
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 3 Правый массив 3
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 1
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 2
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 1
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 1 Правый массив 1
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 2 Правый массив 2
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 3 Правый массив 4
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 6 Правый массив 7
+Apr 01, 2023 9:21:32 PM Lesson3.MyMergeSort merge
+INFO: Рекурсия!Левый массив 12 Правый массив 13
