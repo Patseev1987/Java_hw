@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d93aa535-e2e1-4050-9691-3ce94cbb90b1" name="Changes" comment="added Lesson2">
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/BogdanQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/BogdanReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/RandomLinkedListInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log.0.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.0.0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/MyMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/MyMergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +32,10 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-20/lib/src.zip!/java.base/java/util/LinkedList.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,6 +50,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/bogdanpatseev/Documents/Java/JavaHomeWork&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -52,6 +61,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lesson4" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">

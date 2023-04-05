@@ -17,7 +17,7 @@ public class MyMergeSort {
     }
 
     private static ArrayList<Integer> merge(ArrayList<Integer> left, ArrayList<Integer> right) {
-        LOG.log(Level.INFO, "Рекурсия!"+"Левый массив "+left.size()+" Правый массив "+right.size());
+
         int resIn = 0, leftIn = 0, rightIn = 0;
         ArrayList<Integer> result = new ArrayList<>(left);
         result.addAll(right);
@@ -35,6 +35,7 @@ public class MyMergeSort {
                 result.set(resIn++, right.get(rightIn++));
             }
         }
+        LOG.log(Level.INFO, "Рекурсия!"+ result);
         return result;
     }
 }
