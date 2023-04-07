@@ -12,14 +12,17 @@ public class Main {
 //        BogdanReverse.getReverseList(myList);
 //        System.out.println(myList);
 // Task 2 Queue
-        BogdanQueue bogdan = new BogdanQueue();
-        System.out.println(bogdan);
-        bogdan.enqueue(-100);
-        System.out.println("After enqueue() "+bogdan);
-        int test = bogdan.first();
-        System.out.println(test);
-        int test2 = bogdan.dequeue();
-        System.out.println(test2);
-        System.out.println("After dequeue() "+bogdan);
+//        BogdanQueue bogdan = new BogdanQueue();
+//        System.out.println(bogdan);
+//        bogdan.enqueue(-100);
+//        System.out.println("After enqueue() "+bogdan);
+//        int test = bogdan.first();
+//        System.out.println(test);
+//        int test2 = bogdan.dequeue();
+//        System.out.println(test2);
+//        System.out.println("After dequeue() "+bogdan);
+
+        NewCalc myCalc= new NewCalc();
+        myCalc.run();
     }
 }
