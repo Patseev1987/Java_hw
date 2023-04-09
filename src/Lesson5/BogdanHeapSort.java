@@ -14,7 +14,7 @@ public class BogdanHeapSort {
         }
     }
 
-    void getMaxHeap(int[] array, int size, int start) {
+    public void getMaxHeap(int[] array, int size, int start) {
         int largest = start;
         int left = 2 * start + 1;
         int right = 2 * start + 2;

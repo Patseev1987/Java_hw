@@ -10,6 +10,7 @@ import Lesson2.MyLogger;
 
 public class HeapSortArrayList {
     private static final Logger LOG = MyLogger.log(BubbleSort.class.getName());
+
     public void sort(ArrayList<Integer> list) {
         int size = list.size();
         for (int i = (size / 2) - 1; i >= 0; i--) {
@@ -19,12 +20,12 @@ public class HeapSortArrayList {
             int temp = list.get(0);
             list.set(0, list.get(i));
             list.set(i, temp);
-            LOG.log(Level.INFO,"Largest will been cut --->  "+list.get(i));
+            LOG.log(Level.INFO, "Largest will been cut --->  " + list.get(i));
             getMaxHeap(list, i, 0);
         }
     }
 
-    void getMaxHeap(ArrayList<Integer> list, int size, int start) {
+    public void getMaxHeap(ArrayList<Integer> list, int size, int start) {
         int largest = start;
         int left = 2 * start + 1;
         int right = 2 * start + 2;
