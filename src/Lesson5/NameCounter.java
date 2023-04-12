@@ -8,14 +8,10 @@ public class NameCounter {
     private String separator = File.separator;
     private String path = "src" + separator + "Lesson5" + separator + "Names1.txt";
     private final TreeMap<String, Integer> countToName = new TreeMap<>();
-    private ArrayList<String> loadNames() {
+    private ArrayList<String> loadNames() throws FileNotFoundException {
         File file = new File(path);
         Scanner scanner = null;
-        try {
-            scanner = new Scanner(file);
-        } catch (FileNotFoundException e) {
-            System.out.println("File is not found");
-        }
+        scanner = new Scanner(file);
         ArrayList<String> nameList = new ArrayList<>();
         while (scanner.hasNextLine()) {
             String line = scanner.nextLine();
@@ -26,7 +22,7 @@ public class NameCounter {
         scanner.close();
         return nameList;
     }
-    private void getNameList() {
+    private void getNameList() throws FileNotFoundException {
         ArrayList<String> names = loadNames();
         for (int i = 0; i < names.size(); i++) {
             int counter = 1;
@@ -38,7 +34,7 @@ public class NameCounter {
             }
         }
     }
-    public void showResult() {
+    public void showResult() throws FileNotFoundException {
         getNameList();
         System.out.println("This list is not sort!");
         System.out.println(countToName);
@@ -63,4 +59,5 @@ public class NameCounter {
         }
         System.out.println(result);
     }
+
 }

@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d93aa535-e2e1-4050-9691-3ce94cbb90b1" name="Changes" comment="added Lesson5">
+    <list default="true" id="d93aa535-e2e1-4050-9691-3ce94cbb90b1" name="Changes" comment="fixed Main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.0.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.0.0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5/BogdanHeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/BogdanHeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson5/HeapSortArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/HeapSortArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson5/NameCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson5/NameCounter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +61,26 @@
       <recent name="Lesson4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Lesson6.Main">
     <configuration name="BogdanParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2.BogdanParsing" />
       <module name="JavaHomeWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson6.Main" />
+      <module name="JavaHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson6.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BogdanParsing" />
       </list>
@@ -150,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681059159095</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixed Main">
+      <created>1681060734567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681060734567</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +188,7 @@
     <MESSAGE value="added task3" />
     <MESSAGE value="added Lesson2" />
     <MESSAGE value="added Lesson5" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Lesson5" />
+    <MESSAGE value="fixed Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed Main" />
   </component>
 </project>
