@@ -9,10 +9,10 @@ public class Laptop {
     private String color;
 
     public Laptop(String brand, int screenSize, String processor, String color) {
-        this.brand = brand;
+        this.brand = brand.toLowerCase();
         this.screenSize = screenSize;
-        this.processor = processor;
-        this.color = color;
+        this.processor = processor.toLowerCase();
+        this.color = color.toLowerCase();
     }
 
     public void setBrand(String brand) {

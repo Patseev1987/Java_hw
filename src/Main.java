@@ -1,10 +1,11 @@
 import Lesson5.*;
 
 
+import java.io.FileNotFoundException;
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
         // Heap Sort
 //        BogdanHeapSort sort = new BogdanHeapSort();
 //        int[] myArray = {4,3,7,9,345,3,6,8,0};
@@ -24,7 +25,7 @@ public class Main {
 //        Phonebook phonebook = new Phonebook();
 //        phonebook.getMenu();
         //NameCounter
-//        NameCounter nameCounter = new NameCounter();
-//        nameCounter.showResult();
+        NameCounter nameCounter = new NameCounter();
+        nameCounter.showResult();
     }
 }
